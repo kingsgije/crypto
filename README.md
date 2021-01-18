@@ -35,7 +35,7 @@ If interested in earning passive income with Crypto, you may want to consider th
     * Interest is paid in kind
     * Interest payments are daily
     * In the USA, you can ***NOT*** earn NEXO native token 
-  * Tip: Wait for a good promotion. 
+  * Tip: Periodically check <https://nexo.io/nexonomics> for bonus deposit opportunity. 
   * Referral Link: <https://nexo.io/?u=5fccf112f7ba572cb1586a6b>
 
 ## Exchange Referral Links
