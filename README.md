@@ -16,14 +16,15 @@ If interested in earning passive income with Crypto, you may want to consider th
 
 
 * **Celsius**
-  * **Quick Thought** Personal favorite due to high interest rates on stablecoins
+  * **Quick Thought:** Personal favorite due to high interest rates on stablecoins
     * Does ***NOT*** allow direct deposit from Bank (ACH)
     * Need to transfer crypto from another wallet or exchange
-    * Stablecoins (like GUSD) currently earning 10.51% interest rate
+    * Stablecoins (like GUSD) currently earning 12.5% interest rate
     * Interest is paid in kind
     * Interest payments are weekly (Monday)
     * In the USA, you can ***NOT*** earn CEL native token 
   * **Tip:** Deposit funds from bank into Gemini Exchange (automatically converts to GUSD). After 5 days transfer GUSD to Celsius.
+  * **Tip2:** Celsius often offers promo codes maintained by community <https://celsius.org>
   * **Friendly Security Advice:** Please setup 2FA on your account!
   * **Referral Link:** <https://celsiusnetwork.app.link/1794598012>
   * **Referral Link:** <https://gemini.com/share/av7qr7fd>
