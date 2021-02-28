@@ -13,13 +13,14 @@ If interested in earning passive income with Crypto, you may want to consider th
   * **Tip:** Deposit funds from bank (automatically converts to GUSD), and earn interest in BTC. Great way to get started without losing principle. 
   * **Friendly Security Advice:** Please setup 2FA on your account!
   * **Referral Link:** <https://blockfi.com/?ref=87155dd1>
+  * **Bitcoin Rewards Credit Card:** <https://blockfi.com/credit-card-waitlist/?r=m036I>
 
 
 * **Celsius**
   * **Quick Thought:** Personal favorite due to high interest rates on stablecoins
     * Does ***NOT*** allow direct deposit from Bank (ACH)
     * Need to transfer crypto from another wallet or exchange
-    * Stablecoins (like GUSD) currently earning 12.5% interest rate
+    * Stablecoins (like GUSD) currently earning 10.51% interest rate
     * Interest is paid in kind
     * Interest payments are weekly (Monday)
     * In the USA, you can ***NOT*** earn CEL native token 
@@ -41,6 +42,12 @@ If interested in earning passive income with Crypto, you may want to consider th
   * **Tip:** Periodically check <https://nexo.io/nexonomics> for bonus deposit opportunity. 
   * **Friendly Security Advice:** Please setup 2FA on your account!
   * **Referral Link:** <https://nexo.io/?u=5fccf112f7ba572cb1586a6b>
+
+## High Interest Saving Account
+* **Donut**
+  * Fixed 4% rate or variable rate from 2% to 11%
+  * Interest paid continuous
+  * Receive $10 free when signing up using: <https://donut.app.link/kingsgije/i/mlpmsysGR>
 
 ## Exchange Referral Links
 - <https://gemini.com/share/av7qr7fd>
