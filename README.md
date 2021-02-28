@@ -45,9 +45,11 @@ If interested in earning passive income with Crypto, you may want to consider th
 
 ## High Interest Saving Account
 * **Donut**
-  * Fixed 4% rate or variable rate from 2% to 11%
-  * Interest paid continuous
-  * Receive $10 free when signing up using: <https://donut.app.link/kingsgije/i/mlpmsysGR>
+  * **Quick Thought:** Good option for getting decent yield without investing in cryto (as they do it for you)
+    * Can mix and match a fixed 4% rate or variable rate from 2% to 11%
+    * Interest is paid continuous
+  * **Referral Link:** <https://donut.app.link/kingsgije/i/mlpmsysGR>
+    * Receive $10 free when signing up using referral link
 
 ## Exchange Referral Links
 - <https://gemini.com/share/av7qr7fd>
