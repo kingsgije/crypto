@@ -20,7 +20,7 @@ If interested in earning passive income with Crypto, you may want to consider th
   * **Quick Thought:** Personal favorite due to high interest rates on stablecoins
     * Does ***NOT*** allow direct deposit from Bank (ACH)
     * Need to transfer crypto from another wallet or exchange
-    * Stablecoins (like GUSD) currently earning 10.51% interest rate
+    * Stablecoins (like GUSD) currently earning 8.88% interest rate
     * Interest is paid in kind
     * Interest payments are weekly (Monday)
     * In the USA, you can ***NOT*** earn CEL native token 
@@ -30,6 +30,17 @@ If interested in earning passive income with Crypto, you may want to consider th
   * **Referral Link:** <https://celsiusnetwork.app.link/1794598012>
   * **Referral Link:** <https://gemini.com/share/av7qr7fd>
 
+
+* **Ledn**
+  * **Quick Thought:** Currently offers best rate on USDC Stablecoin
+    * Does ***NOT*** allow direct deposit from Bank (ACH)
+    * Need to transfer crypto from another wallet or exchange (Coinbase)
+    * USDC Stablecoin is currently earning 11.00% interest rate
+    * Interest is paid in kind
+    * Interest payments are monthly
+  * **Tip:** Deposit funds from bank into Coinbase, buy USDC, and transfer to Ledn.
+  * **Friendly Security Advice:** Please setup 2FA on your account!
+  * **Referral Link:** <https://platform.ledn.io/join/ff8bd1e56055e91977a1e9eb861fdc8b>
 
 * **Nexo**
   * **Quick Thought:** Another option, as occassionaly bonus deposit promotions
@@ -43,10 +54,14 @@ If interested in earning passive income with Crypto, you may want to consider th
   * **Friendly Security Advice:** Please setup 2FA on your account!
   * **Referral Link:** <https://nexo.io/?u=5fccf112f7ba572cb1586a6b>
 
+
 ## High Interest Saving Account
 * **Donut**
   * **Quick Thought:** Good option for getting decent yield without investing in cryto (as they do it for you)
-    * Can mix and match a fixed 4% rate or variable rate from 2% to 11%
+    * Provides 3 options:
+      * Fixed pays 4% 
+      * Variable pays from 1% to 11%, depending market conditions
+      * Variable Pro pays up to 15% interest, and requires $5,000 deposit
     * Interest is paid continuous
   * **Referral Link:** <https://donut.app.link/kingsgije/i/mlpmsysGR>
     * Receive $10 free when signing up using referral link
