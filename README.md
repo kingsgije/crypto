@@ -7,7 +7,7 @@ If interested in earning passive income with Crypto, you may want to consider th
   * **Quick Thought:** Great place to start
     * Allows for direct deposit from Bank (ACH)
     * Bank transfers automatically convert to Gemini Dollar (GUSD) stablecoin
-    * GUSD currently earning 8.60% interest rate
+    * GUSD currently earning 7.50% interest rate
     * Interest can be paid in kind or in crypto!
     * Interest payments are monthly
   * **Tip:** Deposit funds from bank (automatically converts to GUSD), and earn interest in BTC. Great way to get started without losing principle. 
@@ -35,7 +35,7 @@ If interested in earning passive income with Crypto, you may want to consider th
   * **Quick Thought:** Currently offers best rate on USDC Stablecoin
     * Does ***NOT*** allow direct deposit from Bank (ACH)
     * Need to transfer crypto from another wallet or exchange (Coinbase)
-    * USDC Stablecoin is currently earning 11.00% interest rate
+    * USDC Stablecoin is currently earning 9.50% interest rate
     * Interest is paid in kind
     * Interest payments are monthly
   * **Tip:** Deposit funds from bank into Coinbase, buy USDC, and transfer to Ledn.
