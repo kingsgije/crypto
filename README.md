@@ -35,7 +35,7 @@ If interested in earning passive income with Crypto, you may want to consider th
   * **Quick Thought:** Currently offers best rate on USDC Stablecoin
     * Does ***NOT*** allow direct deposit from Bank (ACH)
     * Need to transfer crypto from another wallet or exchange (Coinbase)
-    * USDC Stablecoin is currently earning 9.50% interest rate
+    * USDC Stablecoin is currently earning 8.50% interest rate
     * Interest is paid in kind
     * Interest payments are monthly
   * **Tip:** Deposit funds from bank into Coinbase, buy USDC, and transfer to Ledn.
@@ -59,9 +59,9 @@ If interested in earning passive income with Crypto, you may want to consider th
 * **Donut**
   * **Quick Thought:** Good option for getting decent yield without investing in cryto (as they do it for you)
     * Provides 3 options:
-      * Fixed pays 4% 
-      * Variable pays from 1% to 11%, depending market conditions
-      * Variable Pro pays up to 15% interest, and requires $5,000 deposit
+      * Save: 4% Fixed
+      * Build: 5-7% (requires $2,500 deposit)
+      * Grow: 6-10% (requires $5,000 deposit) 
     * Interest is paid continuous
   * **Referral Link:** <https://donut.app.link/kingsgije/i/mlpmsysGR>
     * Receive $10 free when signing up using referral link
