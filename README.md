@@ -1,8 +1,8 @@
 # My Crypto Thoughts
 
-The crypto landscape has certainly changed recently, and below are a few of my thoughts/recommendations:
+The crypto landscape has certainly changed recently, and below are a few of my updated thoughts/recommendations:
 
-* [Browser](#brave-browser) - Earn cypto (BAT) while **privately** browsing
+* [Browser](#privacy-browser) - Earn cypto (BAT) while **privately** browsing
 * [CeFi](#centralized-finance-cefi) - Earn Passive Income
 * [DeFi Savings](#defi-saving-account) - Earn Passive Income
 
