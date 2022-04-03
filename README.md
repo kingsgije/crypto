@@ -37,12 +37,22 @@ The crypto landscape has certainly changed recently, and below are a few of my u
   * **Tip2:** Celsius often offers promo codes <https://celsius.network/promotion-rules>
   * **Friendly Security Advice:** Please setup 2FA on your account!
   * **Referral Link:** <https://celsiusnetwork.app.link/1794598012>
+
+* **Gemini**
+  * **Quick Thought:** Now offers ability to earn interest, and allows for direct deposit from Bank (ACH)
+    * Celsius usually offers better yield, but good option if you want to diversify your exchanges
+    * Stablecoins (like GUSD) currently earning 6.9% interest rate
+      * Stablecoin is crypto that is always equal to $1
+  * **Friendly Security Advice:** Please setup 2FA on your account!
   * **Referral Link:** <https://gemini.com/share/av7qr7fd>
 
 * **BlockFi**
-  * **Quick Thought:** No longer offers interest bearing accounts for new deposits :(
+  * **Quick Thought:** No longer a fan of BlockFi, but do like their Credit Card
+    * Currently does ***NOT*** offer ability to earn interest on new deposits :(
+    * Withdrawal fees can be high and restrictive
     * Allows for direct deposit from Bank (ACH)
   * **Tip:** Sign up for **BlockFi Credit Card** that pays 1.5% cashback in Bitcoin (BTC)
+    * Move BTC cashback to another exchange to get interest (one free withdrawal per month)
   * **Friendly Security Advice:** Please setup 2FA on your account!
   * **Referral Link:** <https://blockfi.com/?ref=87155dd1>
 
